@@ -92,4 +92,22 @@ endif
 
 inoremap <C-U> <C-G>u<C-U>
 
+
 " vim:set ft=vim et sw=2:
+
+" jonbri customizations
+set nu
+set softtabstop=4
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set noswapfile
+set list
+set fileformats+=dos
+set binary
+set noeol
+syntax on
+
+"no menubar in gvim
+set guioptions-=T
+
