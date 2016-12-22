@@ -100,12 +100,12 @@ set nu
 set softtabstop=4
 set shiftwidth=4
 set tabstop=4
-set expandtab
 set noswapfile
 set list
 set fileformats+=dos
 set binary
 set noeol
+set expandtab
 syntax on
 
 "no menubar in gvim
